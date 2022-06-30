@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>Barbearia Alura</title>
+    <link rel="stylesheet" href="style.css">
+
+  <style >
+    
+  </style>   
+
+  </head>
+
+     <body>
+ <h1 style="text-align: center;background: #cccccc ;">Barbearia alura</h1>
+
+   <p tyle="">Localizada no coração da cidade, a <strong>barbearia alura</strong> traz para o mercado o que há de melhor 
+   para o seu cabel!DOCTYPE htmlo e barba. Fundada em 2019,  a barbearia alura já é destaque na cidade e
+   conquista nossos clientes a cada dia.</p> 
+
+   <p style="font-size: 20x;"><em>Nossa missão é: <strong>“proporcionar auto-estima e qualidade de vida aos clientes”.</p></em>
+
+   <p tyle="">Oferecemos profissionais experientes e antenados ás mudanças no mundo da moda.O atendimento possui padrão de excelência e agilidade, garantindo a satisfação  dos nossos 
+   clientes.</p>  
+     </body>
+  
+</html> 
