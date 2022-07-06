@@ -1,2 +1,4 @@
 # Alura_Site
-Estarei criando um site de acordo com o curso Alura
+
+
+* * Estarei criando um site de uma padaria com base no curso da alura.
