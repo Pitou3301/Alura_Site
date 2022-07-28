@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>Barbearia Alura</title>
+    <link rel="stylesheet" href="style.css">
+
+  <style >
+
+  </style>   
+
+  </head>
+
+     <body>
+ <h1 style="text-align: center ;background: #cccc;">Barbearia Alura</h1>
+
+   <p style="text-align: center;">Localizada na esquina da rua XXXXXX, a padaria <b>Pão da Esquina</b> .</p> 
+
+   <p style="font-size: 20x;"><em>Nossa missão é:</em> Trazer os melhores pães da cidade.</p>
+
+   <p style="">Oferecemos profissionais experientes e antenados ás mudanças no mundo da moda.O atendimento possui padrão de excelência e agilidade, garantindo a satisfação  dos nossos 
+   clientes.</p>  
+     </body>
+
+</html>   
